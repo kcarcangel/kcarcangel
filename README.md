@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kcarcangel
-- 👀 I’m interested in app and web development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
